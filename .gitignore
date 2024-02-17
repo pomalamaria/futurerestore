@@ -14,7 +14,7 @@ compile
 config.*
 configure
 depcomp
-install-sh
+install-sh 
 libtool
 ltmain.sh
 m4
